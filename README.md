@@ -1,0 +1,1 @@
+# Verificador_String
