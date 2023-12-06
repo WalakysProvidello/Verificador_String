@@ -2,8 +2,8 @@
 
 Bem-vindo ao Verificador de Strings, um aplicativo simples para analisar e manipular strings em Python com uma interface gráfica usando Tkinter.
 
-<img src="https://github.com/WalakysProvidello/-Verificador-de-Ano-Bissexto/blob/14da0237e6b41ff975016923452a4e9e7a484657/imagem_2023-12-04_194911282.png" alt="Captura de Tela 1" width="400"/>
-<img src="https://github.com/WalakysProvidello/-Verificador-de-Ano-Bissexto/blob/14da0237e6b41ff975016923452a4e9e7a484657/imagem_2023-12-04_194855029.png" alt="Captura de Tela 2" width="400"/>
+<img src="https://github.com/WalakysProvidello/Verificador_String/blob/2148202b28c584d4083ebcd8b3fafe8211ac6fb4/imagem_2023-12-06_184855910.png"/>
+
 
 ## Funcionalidades 🔍
 
